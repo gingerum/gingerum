@@ -6,7 +6,6 @@
 ✅ [Mobile Game analysis](https://github.com/gingerum/mobile-game-analysis-edproject) <br>
 ✅ Online University analysis [tba] <br>
 ✅ HR Bonuses Budget visualisation [tba] <br>
-br>
 
 --------------------------
 
@@ -20,10 +19,10 @@ br>
 
 ------------------
 
-🔹 Hard skills
-🎯 SQL (joins, CTE, views, window functions, subqueries)
-🎯 Python (pandas, numpy, scipy, statsmodels, matplotlib, seaborn)
-🎯 Tableau, Redash
-🎯 Jupyter Notebook
-🎯 Excel (pivot, vlookup), Google Spreadsheets
-🎯 Atlassian Jira & Confluence
+**Hard skills**<br>
+🎯 SQL (joins, CTE, views, window functions, subqueries)<br>
+🎯 Python (pandas, numpy, scipy, statsmodels, matplotlib, seaborn)<br>
+🎯 Tableau, Redash<br>
+🎯 Jupyter Notebook<br>
+🎯 Excel (pivot, vlookup), Google Spreadsheets<br>
+🎯 Atlassian Jira & Confluence<br>
