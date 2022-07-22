@@ -3,14 +3,10 @@
 
 Ключевые интересы: Дизайн и анализ метрик, оценка эффективности, поиск узких мест и точек роста продукта, А/Б тестирование, исследование паттернов поведения пользователей, визуализация данных.
 
-Планы развития: UI/UX анализ, основы ML, NLU.
-
 ----------------------
 **Мои учебные проекты**: <br>
 ✅ [Mobile Game analysis](https://github.com/gingerum/mobile-game-analysis-edproject) <br>
-✅ Online University analysis [tbu] <br>
 ✅ [HR Bonuses Budget visualisation](https://public.tableau.com/app/profile/karolina6067/viz/Monetary_task/BonusBudgetOV) <br>
-✅ *coming soon*
 
 --------------------------
 
